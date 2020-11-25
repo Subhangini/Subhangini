@@ -1,5 +1,5 @@
  ### Hello! Subhangini here👋
-- 📝 Currently pursuing **BTech.CSE** from **DAV Insititute of Engineering and Technology, Jalandhar**
+- 📝 Currently pursuing **BTech.CSE** from **Punjab Technical University , Jalandhar**
 - 🔭 Currently working on **front end development**
 - 🌱 Currently learning **Hypertext Markup Language(html)**
 - 👯 Looking to collaborate *on open source projects* 
