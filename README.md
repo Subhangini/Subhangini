@@ -3,8 +3,7 @@
 - 🔭 Currently working on **front end development**
 - 🌱 Currently learning **Hypertext Markup Language(html)**
 - 👯 Looking to collaborate *on open source projects* 
-- 🤔 Looking for help with nothing wright now.
-- 💬 Ask me about *C or C++* .
+- 💬 Ask me about *C and C++* .
 - 📫 How to reach me:[   **linkedin**](https://www.linkedin.com/in/subhangini-b819011b9/)
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact:I will find it soon 😁
