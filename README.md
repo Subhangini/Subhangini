@@ -2,7 +2,7 @@
  ![](Banner.gif)
  ## Hello! Subhangini here👋
 - 📝 Currently pursuing **BTech.CSE** from **Punjab Technical University , Jalandhar**
-- 🔭 Currently working in **GSSOC'21**
+- 🔭 Currently working on **My Portfolio**
 - 🌱 Currently learning about **Open Source**
 - 👯 Looking to collaborate *on open source projects* 
 - 😄 Pronouns: Her/She
