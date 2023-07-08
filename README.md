@@ -1,12 +1,12 @@
  
  ![](Banner.gif)
  ## Hello! Subhangini here👋
-- 📝 Currently pursuing **BTech.CSE** from **Punjab Technical University , Jalandhar**
-- 🔭 Currently working on **My Portfolio**
-- 🌱 Currently learning about **Open Source**
-- 👯 Looking to collaborate *on open source projects* 
+- 📝 Currently completed my **BTech.CSE** from **DAV Institute of Engineering and Technology , Jalandhar**
+- 🔭  Working on *React Application*
+- 🌱 Currently learning how to survive corporate life 
+- 👯 Looking for jobs actively 
 - 😄 Pronouns: Her/She
-- ⚡ Fun fact:I will find it soon 😁
+
 
 
 <h3 align="left">Languages :</h3>
